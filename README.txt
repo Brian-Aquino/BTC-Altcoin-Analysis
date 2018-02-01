@@ -1,0 +1,1 @@
+The following project focuses on analysing BTC's trend, correlation to alt-coins (Pearson Coefficient), and price volatility (Garch Method).
